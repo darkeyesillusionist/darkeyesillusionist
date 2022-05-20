@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @darkeyesillusionist
+- 👀 I’m interested in video games
+- 🌱 I’m currently learning CS50
+- 💞️ I’m looking to collaborate on anything simple to get my feet wet. 
